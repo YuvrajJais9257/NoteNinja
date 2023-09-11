@@ -3,6 +3,7 @@
 ![Note Ninja Logo](screenshotNinja1.png)
 ![Note Ninja Logo](screenshotNinja2.png)
 ![Note Ninja Logo](screenshotNinja3.png)
+![Note Ninja Logo](screenshotNinja4.png)
 
 Note Ninja is a simple yet powerful reminder app built with HTML, CSS, React.js, and JavaScript. Stay organized and never forget your important tasks and plans with Note Ninja. This README provides an overview of the app's features and how to use them effectively.
 
